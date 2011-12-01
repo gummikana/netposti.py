@@ -27,7 +27,7 @@ How to use this
 	If you don't want to use gmail, modify the send_mail function to
 	send mail without gmail. Shouldn't be too hard to do.
 
- 3. Run the script.
+ 3.  Run the script.
 
  (The way it's setup now is that it will only email you the new mails, 
   you might want to change that for debugging/testing purposes)
